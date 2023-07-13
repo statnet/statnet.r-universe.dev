@@ -1,0 +1,74 @@
+[
+  {
+    "package": "ergm",
+    "url": "https://github.com/statnet/ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common"
+  },
+  {
+    "package": "ergmgp",
+    "url": "https://github.com/statnet/ergmgp"
+  },
+  {
+    "package": "ergm.ego",
+    "url": "https://github.com/statnet/ergm.ego"
+  },
+  {
+    "package": "tergm",
+    "url": "https://github.com/statnet/tergm"
+  },
+  {
+    "package": "ergm.multi",
+    "url": "https://github.com/statnet/ergm.multi"
+  },
+  {
+    "package": "networkDynamic",
+    "url": "https://github.com/statnet/networkDynamic"
+  },
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network"
+  },
+  {
+    "package": "ndtv",
+    "url": "https://github.com/statnet/ndtv"
+  },
+  {
+    "package": "latentnet",
+    "url": "https://github.com/statnet/latentnet"
+  },
+  {
+    "package": "ergm.rank",
+    "url": "https://github.com/statnet/ergm.rank"
+  },
+  {
+    "package": "ergm.count",
+    "url": "https://github.com/statnet/ergm.count"
+  },
+  {
+    "package": "tsna",
+    "url": "https://github.com/statnet/tsna"
+  },
+  {
+    "package": "statnet",
+    "url": "https://github.com/statnet/statnet"
+  },
+  {
+    "package": "lolog",
+    "url": "https://github.com/statnet/lolog"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle"
+  },
+  {
+    "package": "statnetWeb",
+    "url": "https://github.com/statnet/statnetWeb"
+  },
+  {
+    "package": "ergm.userterms",
+    "url": "https://github.com/statnet/ergm.userterms"
+  }
+]
