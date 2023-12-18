@@ -33,6 +33,7 @@
   },
   {
     "package": "ndtv",
+    "subdir": "ndtv",
     "url": "https://github.com/statnet/ndtv"
   },
   {
